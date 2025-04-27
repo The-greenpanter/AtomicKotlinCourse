@@ -3,7 +3,7 @@ files:
   - name: src/Task.kt
     visible: true
     placeholders:
-      - offset: 67
+      - offset: 69
         length: 38
         placeholder_text: |-
           println("Hello,")
@@ -13,11 +13,14 @@ files:
           offset: 67
         initialized_from_dependency: false
         encrypted_possible_answer: qDXRIskLetSSUoj/gkBc5Idd8HpqEY3Y7lMI99wP1JwIkC1GfHssxCBRTfV9VyKN
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: test/output.txt
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 27 Apr 2025 23:21:02 UTC"
 record: -1
